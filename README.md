@@ -15,6 +15,10 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```bash
     npx expo start
    ```
+**ATENÇÃO**: Se não estiver funcionando, use esse comando:
+  ```bash
+    npx expo start --tunnel
+  ```
 
 In the output, you'll find options to open the app in a
 
